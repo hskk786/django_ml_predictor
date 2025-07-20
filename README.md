@@ -53,17 +53,7 @@ However, this project highlights several **key Machine Learning and deployment c
 
 ---
 
-## Screenshots
 
-### Main Prediction Form
-![Form Screenshot](images/form_page.png)
-
-### Prediction Result
-![Result Screenshot](images/result_page.png)
-
-*(Place your actual screenshots inside the `images/` folder in your repo.)*
-
----
 
 ## Project Structure
 
